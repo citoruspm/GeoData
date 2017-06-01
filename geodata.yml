@@ -1,5 +1,4 @@
 site_name: Sample Documentation
 pages:
-- Heapster Overview: manual.md
+- Heapster Overview: desc.md
 - Model: model.md
-theme: readthedocs
