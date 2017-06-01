@@ -1,0 +1,5 @@
+site_name: Sample Documentation
+pages:
+- Heapster Overview: manual.md
+- Model: model.md
+theme: readthedocs
