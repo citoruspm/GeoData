@@ -1,0 +1,4 @@
+site_name: Sample Documentation
+pages:
+- Подсистема геоданных: manual.md
+theme: readthedocs
