@@ -1,6 +1,4 @@
 site_name: Sample Documentation
-site_description: XCV
-copyright: BVC
 pages:
 - Heapster Overview: desc.md
 - Model: model.md
