@@ -1,4 +1,18 @@
-site_name: Sample Documentation
+site_name: GeoData
+site_url: http://docs.citorus.ru
+site_description: Project documentation with INFOGREIS
+site_author: CITORUS TEAM
+
+repo_url: https://github.com/mkdocs/mkdocs/
+
 pages:
-- Heapster Overview: desc.md
-- Model: model.md
+- Home: desc.md
+- User Guide:
+    - Writing Your Docs: model.md
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
+
+copyright: Infogreis
