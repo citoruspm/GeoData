@@ -6,5 +6,5 @@ site_favicon: favicon.png
 copyright: CITORUS team
 pages:
 pages:
-- Home2: 'index.md'
+- CITORUS.GIS: 'index.md'
 - About2: 'model.md'
