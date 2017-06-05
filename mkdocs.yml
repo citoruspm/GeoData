@@ -5,4 +5,4 @@ site_author: HHHH
 site_favicon: favicon.png
 copyright: CITORUS team
 pages:
-- Номе: desc.md
+    - 'Homeme': 'desc.md'
