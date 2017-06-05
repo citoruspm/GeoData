@@ -1,4 +1,3 @@
-site_name: sample
 pages:
 - Home: desc.md
 - User Guide: model.md
