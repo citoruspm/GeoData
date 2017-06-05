@@ -8,3 +8,4 @@ pages:
 pages:
 - CITORUS.GIS: 'index.md'
 - About2: 'model.md'
+extra_css: extra.css
