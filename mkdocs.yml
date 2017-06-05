@@ -1,6 +1,0 @@
-site_name: GeoData
-pages:
-- Home: desc.md
-- User Guide:
-    - Writing Your Docs: model.md
-copyright: Infogreis
