@@ -5,4 +5,6 @@ site_author: HHHH
 site_favicon: favicon.png
 copyright: CITORUS team
 pages:
-Introduction: model.md
+pages:
+- Home2: 'index.md'
+- About2: 'model.md'
