@@ -1,9 +1,9 @@
-site_name: QU-QU
+site_name: CITORUS
 site_url: http://docs.citorus.ru
-site_description: GGGG
-site_author: HHHH
+site_description: CITORUS.DOCS
+site_author: CITORUS team
 site_favicon: favicon.png
-copyright: CITORUS team
+copyright: CITORUS
 pages:
 pages:
 - CITORUS.GIS: 'index.md'
