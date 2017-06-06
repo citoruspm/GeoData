@@ -2,7 +2,7 @@ site_name: CITORUS
 site_url: http://docs.citorus.ru
 site_description: CITORUS.DOCS
 site_author: CITORUS team
-site_favicon: favicon.png
+site_favicon: favicon.ico
 copyright: CITORUS
 pages:
 pages:
