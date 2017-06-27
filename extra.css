@@ -4,7 +4,7 @@ h1 {
 p {
     font-size: 100%;
 }
-ol {
-    margin-top: 2px;
+ul, ol {
+    margin-top: -15px;
 }
     
