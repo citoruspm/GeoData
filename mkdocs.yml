@@ -8,4 +8,4 @@ pages:
 pages:
 - CITORUS.GIS: 'index.md'
 extra_css: [extra.css]
-- html_theme: 'sphinx_rtd_theme'
+- html_theme: 'traditional'
