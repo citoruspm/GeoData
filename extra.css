@@ -1,6 +1,8 @@
 h1 {
   color: black;
+  margin-bottom: 24px;
 }
 p {
     font-size: 100%;
+    margin-bottom: 12px;
 }
