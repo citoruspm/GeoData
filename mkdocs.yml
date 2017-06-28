@@ -7,3 +7,4 @@ copyright: CITORUS
 pages:
 pages:
 - CITORUS.GIS: 'index.md'
+extra_css: extra.css
