@@ -1,9 +1,9 @@
 site_name: CITORUS.DOCS
 site_url: http://docs.citorus.ru
-site_description: CITORUS.DOCS
-site_author: CITORUS team
+site_description: Документация по Платформе автоматизации "ЦИТОРУС"
+site_author: CITORUS TEAM
 site_favicon: favicon.ico
-copyright: CITORUS
+copyright: (c) ООО "Инфогрэйс", 2017
 pages:
 - 1. Общие сведения о Платформе автоматизации "ЦИТОРУС": 'index.md'
 - 2. Документация подсистемы "Объектное хранилище": 'obj.md'
